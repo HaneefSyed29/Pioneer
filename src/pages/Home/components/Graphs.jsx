@@ -66,7 +66,7 @@ const Graphs = () => {
   };
 
   const options = {
-    plugins: { legend: true },
+    plugins: { legend: false },
   };
 
   const dData = {
