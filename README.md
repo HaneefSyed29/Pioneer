@@ -2,6 +2,9 @@
 
 Welcome to our web development project! This document provides an overview of the tasks completed and showcases our progress.
 
+#Live Link
+[Click Here for Live Website](https://bitco-haneef-syed.netlify.app)
+
 ##Screenshots
 
 ![Screenshot 1](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711711592/S1_iegb0s.png)
